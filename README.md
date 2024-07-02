@@ -36,11 +36,11 @@ The FSM is used to control the sequence of operations in the processor. The FSM 
 
 ## Data Path Diagram
 
-![image](https://github.com/shadow0935/Verilog_Processor_Implementation/assets/169816376/3e82aef4-24ff-4108-8bc2-2c7e488ffbbd)
+![image](https://github.com/shadow0935/Six-Instruction-Programmable-Processor/assets/169816376/278ece69-048b-4eaa-8e6a-c61cc3a1bb83)
 
 ## FSM Diagram
 
-![image](https://github.com/shadow0935/Verilog_Processor_Implementation/assets/169816376/0700cf00-a9e1-47d8-9a92-ca7888f8ac0c)
+![image](https://github.com/shadow0935/Six-Instruction-Programmable-Processor/assets/169816376/16ef8584-b831-4468-ad49-66a39f161048)
 
 ## Usage
 
